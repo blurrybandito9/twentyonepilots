@@ -1,0 +1,92 @@
+* { 
+    font-family: Tahoma;
+    margin: 0px;
+}
+
+header {
+    background-image: url(camo.jpg);
+    background-color: rgb(255, 230, 39);
+    height: 100px;
+    font-size: 70px;
+   color: #fff608;
+    text-align: center;
+    padding: 30px;
+}
+
+nav {
+    background-color: #9aa009;
+    color: #005c00;
+    line-height: 50px;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+nav li {
+    display: inline-block;
+    padding: 0 20px;
+
+
+}
+
+nav a {
+    text-decoration: none;
+    display: block;
+    color: #a73232
+}
+
+nav a:hover {
+    color: #3fd6f2
+}
+
+section {
+    background-color: rgba(114, 114, 114, 0.6);
+    width: 80%;
+    height: 1500px;
+    font-size: 25px;
+    float: left;
+
+}
+
+aside {
+    background-color: #262626;
+    font-size: 20px;
+    color: #96870d;
+    float: left;
+    width: 20%;
+    height: 1500px;
+    text-align: center;
+
+}
+
+footer {
+    background-color: #585858;
+    font-size: 30px;
+    color: white;
+    clear: both;
+    text-align: center;
+    height: 40px;
+    padding: 15px;
+
+
+}
+
+article {
+    
+    text-align: center;
+}
+
+p {
+    color: #210503;
+    text-align: justify;
+    line-height: 30px;
+    padding-top: 10px;
+}
+
+h1 {
+    padding-top: 10px;
+    color: rgb(255, 235, 0)
+}
+#p1{
+    font-size: 20px
+}
